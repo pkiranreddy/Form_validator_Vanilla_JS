@@ -8,3 +8,7 @@ checkRequired() to accept array of inputs
 checkLength() to check min and max length
 checkEmail() to validate email with regex
 checkPasswordsMatch() to match confirm password
+
+
+
+https://github.com/bradtraversy/vanillawebprojects/tree
